@@ -39,5 +39,5 @@ A fully responsive modern e-commerce web application built with React and Tailwi
 
 ## 📬 Contact Me
 - [Telegram](https://t.me/omidmbeigi83)
-- [LinkedIn](#)  
+- [LinkedIn](www.linkedin.com/in/rezambeigi)  
 - [Email](mailto:your_email@example.com)
