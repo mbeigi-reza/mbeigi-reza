@@ -1,13 +1,12 @@
-# Hello Hello 👋 I'm [Reza Mohammad Beigi](https://github.com/mbeigi-reza)
+# 👋 Hey there. I'm [Reza MohammadBeigi](https://github.com/mbeigi-reza)
 
-I'm a Frontend Developer interested in building clean UIs and smooth user experiences 🌱  
-I enjoy collaborating with developers from all around the world 🚀
-
+I'm a **Frontend Developer** passionate about building clean, user-friendly interfaces and smooth user experiences.  
+I enjoy collaborating with developers from around the world 🚀
 
 ---
 
 ## 🛠 Skills
-- HTML / CSS / TailwindCSS  
+- HTML • CSS • Tailwind CSS  
 - JavaScript (ES6+)  
 - React.js  
 
@@ -15,29 +14,42 @@ I enjoy collaborating with developers from all around the world 🚀
 
 ## 🚀 Projects
 
-### 🕒 Alarm Clock
-A simple alarm clock built with JS and CSS that lets you set multiple alarms ⏰  
-**Source Code:** [View Project Code](https://github.com/mbeigi-reza/clock)
+### 🕒 Alarm Clock  
+My first project built with pure **HTML, CSS, and JavaScript** — a simple alarm clock that lets you set multiple alarms ⏰  
 
-### 🛍 E-Commerce Store
-A fully responsive modern e-commerce web application built with React and Tailwind CSS, featuring product catalog, shopping cart, and smooth user interactions.
+**🔗 Live Demo:** [View Project](https://mbeigi-reza.github.io/clock/)  
+**📂 Source Code:** [GitHub Repo](https://github.com/mbeigi-reza/clock)
 
-**🔗 Live Demo:** [View Live Project](https://mbeigi-reza.github.io/App-shop/)  
-**📂 Source Code:** [View Project Code](https://github.com/mbeigi-reza/App-shop)
+---
 
-**🛠 Tech Stack:** React • Tailwind CSS • JavaScript • HTML5
+### 🛍 E-Commerce Store  
+A fully responsive, modern e-commerce web application built with **React** and **Tailwind CSS**, featuring a product catalog, shopping cart, and smooth user interactions.  
+
+**🔗 Live Demo:** [View Project](https://mbeigi-reza.github.io/App-shop/)  
+**📂 Source Code:** [GitHub Repo](https://github.com/mbeigi-reza/App-shop)
+
+**🛠 Tech Stack:** React • Tailwind CSS • JavaScript • HTML5  
+
+---
+
+### 📝 Persian Todo App  
+A fully responsive todo application built with **React** and **Tailwind CSS**, featuring a Jalali calendar, category management, and smooth task tracking with local storage.  
+
+**🔗 Live Demo:** [View Project](https://mbeigi-reza.github.io/ToDo-list/)  
+**📂 Source Code:** [GitHub Repo](https://github.com/mbeigi-reza/ToDo-list)
+
+**🛠 Tech Stack:** React • Tailwind CSS • JavaScript • React Router • Context API  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbeigi-reza&show_icons=true&theme=radical)
-
+![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbeigi-reza&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeigi-reza&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Contact Me
-- [Telegram](https://t.me/omidmbeigi83)
-- [LinkedIn](https://www.linkedin.com/in/rezambeigi)
+- [Telegram](https://t.me/omidmbeigi83)  
+- [LinkedIn](https://www.linkedin.com/in/rezambeigi)  
 - [Email](mailto:your_email@example.com)
